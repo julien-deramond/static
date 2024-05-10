@@ -3,6 +3,6 @@
     "build": "sh build.sh"
   },
   "devDependencies": {
-    "sponsorkit": "^0.13.0"
+    "sponsorkit": "^0.14.0"
   }
 }

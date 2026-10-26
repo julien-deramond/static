@@ -4,6 +4,6 @@
     "build": "sh build.sh"
   },
   "devDependencies": {
-    "sponsorkit": "^18.0.0"
+    "sponsorkit": "^19.0.0"
   }
 }
